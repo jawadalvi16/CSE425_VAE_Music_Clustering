@@ -40,15 +40,18 @@ This allows comparison between linear dimensionality reduction and nonlinear rep
 ---
 
 ## How to Run
-Install dependencies:
+
+### Install dependencies
 ```bash
 pip install -r requirements.txt
+
 
 Run the pipeline:
 python src/features.py
 python src/vae.py
 python src/clustering.py
 python src/visualize.py
+
 
 Sample Results (Beta-VAE + K-Means)
 ARI   : 0.134
@@ -66,4 +69,5 @@ Tzanetakis, G., and Cook, P. (2002). Musical genre classification of audio signa
 Radford, A. et al. (2023). Whisper: Robust Speech Recognition via Large-Scale Weak Supervision.
 
 Reimers, N., and Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.
+
 
