@@ -37,20 +37,6 @@ This allows comparison between linear dimensionality reduction and nonlinear rep
 
 ---
 
-## Repository Structure
-CSE425_VAE_Music_Clustering/
-├── data/ # Dataset directory (not included)
-├── notebooks/ # Jupyter notebooks for experimentation
-├── results/plots/ # t-SNE and UMAP visualizations
-├── src/ # Source code
-│ ├── features.py # Audio feature extraction
-│ ├── vae.py # Beta-VAE model and training
-│ ├── clustering.py # K-Means clustering and evaluation
-│ └── visualize.py # Latent space visualization
-├── requirements.txt # Python dependencies
-└── README.md
-
-
 ---
 
 ## How to Run
@@ -80,3 +66,4 @@ Tzanetakis, G., and Cook, P. (2002). Musical genre classification of audio signa
 Radford, A. et al. (2023). Whisper: Robust Speech Recognition via Large-Scale Weak Supervision.
 
 Reimers, N., and Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.
+
