@@ -42,7 +42,7 @@ This baseline enables comparison between linear dimensionality reduction and non
 ## Repository Structure and File Description
 Although a specific file structure and task-wise notebooks were suggested, this project follows a **custom but well-documented structure**. All tasks (Easy, Medium, and Hard) are implemented across the notebooks and source files described below.
 ```
-project/
+CSE425_VAE_Music_Clustering/
 │
 ├── data/
 │   ├── audio/
@@ -107,6 +107,7 @@ Radford, A. et al. (2023). Whisper: Robust Speech Recognition via Large-Scale We
 
 Reimers, N., & Gurevych, I. (2019). Sentence-BERT.
 ~~~
+
 
 
 
